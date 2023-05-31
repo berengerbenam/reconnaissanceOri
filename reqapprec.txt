@@ -1,0 +1,3 @@
+create table  student(Student_ID varchar(30),Name varchar(30),Department varchar(30),Course varchar(30),Year varchar(30),Semester varchar(30),Division varchar(30),Gender varchar(30),DOB varchar(30),Mobile_No varchar(30),Address varchar(30),Roll_No varchar(30),Email varchar(30),Teacher_Name varchar(30),PhotoSample varchar(30));
+create table regteach(fname varchar(30),lname varchar(30),cnum varchar(30),email varchar(30),ssq varchar(30),sa varchar(30),pwd varchar(30));
+create table stdattendance(std_id varchar(30),std_roll varchar(30),std_name varchar(30),std_time varchar(30),std_date varchar(30),std_attendance varchar(30));
